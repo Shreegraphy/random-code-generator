@@ -18,7 +18,10 @@ The motive is to create Random Quotes using File Handling
 7. Finally, the function get_random_quote() is called at the end of the script to execute it and print a random quote from the text file.
 #  --> OutPut
 <img width="518" alt="op code q" src="https://github.com/Shreegraphy/random-code-generator/assets/133193730/1d346e70-03d5-407d-9b45-4193814b46fe">
-# -->source code of button(click me)
+
+# -->Button source code
+<img width="497" alt="code q org" src="https://github.com/Shreegraphy/random-code-generator/assets/133193730/57cc2c87-c036-448b-97c0-9d5733515da0">
+
 1. The random module and the Tkinter library are imported at the beginning of the script using the statements import random and from tkinter import *.
 2. The function random_quote() is defined to get and print a random quote from the text file.
 3. Inside the function, the with open('qoutes.txt', 'r') as file: statement opens the text file in read mode and assigns it to the variable file.
